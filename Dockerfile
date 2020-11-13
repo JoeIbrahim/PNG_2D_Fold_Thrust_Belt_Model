@@ -7,10 +7,10 @@ FROM underworldcode/uwgeodynamics:v2.8.5
 # THE FOLLOWING WILL USUALLY NOT REQUIRE MODIFICATION.
 
 # This command will copy in all the files in your repo.
-COPY --chown=jovyan:users . /home/jovyan/PNG_2D_Fold_Thrust_Belt_Model/
+COPY --chown=jovyan:users . /home/jovyan/community_model
 
 # Set working directory to where we've put files. 
-WORKDIR /home/jovyan/PNG_2D_Fold_Thrust_Belt_Model/
+WORKDIR /home/jovyan/community_model
 
 # Create symbolic link to documentation. 
 RUN ln -s .. underworld_documentation
