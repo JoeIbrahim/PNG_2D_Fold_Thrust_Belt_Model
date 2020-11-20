@@ -1,6 +1,6 @@
 <table><tr><td><img src='./raytay_init.png'></td><td><img src='./raytay.png'></td></tr></table>
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/PNG_2D_Fold_Thrust_Belt_Model/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/basin-genesis-hub/PNG_2D_Fold_Thrust_Belt_Model/master)
 
 About
 -----
